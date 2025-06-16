@@ -69,11 +69,9 @@ def main():
     )
     
     # Sidebar information
-    st.sidebar.markdown("Developed by Alim Tleuliyev")
-    st.sidebar.markdown("LinkedIn: [Profile](https://www.linkedin.com/in/alimtleuliyev/)")
-    st.sidebar.markdown("GitHub: [Repo](https://github.com/AlimTleuliyev/wildfire-detection)")
-    st.sidebar.markdown("Email: [alim.tleuliyev@nu.edu.kz](mailto:alim.tleuliyev@nu.edu.kz)")
-    st.sidebar.markdown("Telegram: [@nativealim](https://t.me/nativealim)")
+    st.sidebar.markdown("Developed by Aritrik Ghosh")
+    st.sidebar.markdown("LinkedIn: [Profile](https://www.linkedin.com/in/aritrik-ghosh/)")
+    st.sidebar.markdown("GitHub: [Repo](https://github.com/GHOSH2341/Forest-Fire-Detection-YOLO)")
 
     # Set custom CSS styles
     st.markdown(
@@ -124,10 +122,10 @@ def main():
     """
     <div style='text-align: center;'>
         <h2>🔥 <strong>Wildfire Detection App</strong></h2>
-        <p>Welcome to our Wildfire Detection App! Powered by the <a href='https://github.com/ultralytics/ultralytics'>YOLOv8</a> detection model trained on the <a href='https://github.com/gaiasd/DFireDataset'>D-Fire: an image dataset for fire and smoke detection</a>.</p>
+        <p>Welcome to our Forest Fire Detection App! Powered by the <a href='https://github.com/ultralytics/ultralytics'>YOLOv8</a> detection model trained on the <a href='https://github.com/gaiasd/DFireDataset'>D-Fire: an image dataset for fire and smoke detection</a>.</p>
         <h3>🌍 <strong>Preventing Wildfires with Computer Vision</strong></h3>
-        <p>Our goal is to prevent wildfires by detecting fire and smoke in images with high accuracy and speed.</p>
-        <h3>📸 <strong>Try It Out!</strong></h3>
+        <p>Our goal is to prevent forest fire by detecting fire and smoke in images with high accuracy and speed.</p>
+        <h3>📸 <strong>Check It Out!</strong></h3>
         <p>Experience the effectiveness of our detection model by uploading an image or providing a URL.</p>
     </div>
     """,
