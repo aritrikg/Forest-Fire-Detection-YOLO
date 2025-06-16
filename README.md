@@ -13,7 +13,7 @@ This repository contains the code and resources from our research focused on usi
 - Developed a Streamlit app for practical demonstration of the model's capabilities.
 - Investigated future implications of using computer vision in wildfire prevention strategies.
 
-#### For a comprehensive understanding of our research journey, methodology, and results, please refer to our Medium article: [Stay Ahead of the Flames: A Comprehensive Guide to Wildfire Prevention with YOLOv8](https://medium.com/institute-of-smart-systems-and-ai/stay-ahead-of-the-flames-a-comprehensive-guide-to-wildfire-prevention-with-yolov8-3eb8edd1121a)
+
 
 ---
 
