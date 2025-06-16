@@ -1,5 +1,6 @@
 # Forest Fire Detection Using YOLO
-Welcome to the Forest Fire Detection Research repository! This repository hosts the code and resources related to our research on leveraging computer vision for fire detection. Our aim is to contribute to wildfire prevention efforts by developing and training an object detection model to accurately identify instances of fire and smoke in images.
+Welcome to the Forest Fire Detection Research Repository!
+This repository contains the code and resources from our research focused on using computer vision techniques for forest fire detection. Our goal is to support forest fire prevention by developing and training an object detection model capable of accurately identifying fire and smoke in images.
 
 <p align="center">
   <img src="src/intro-gif.gif" alt="gif" width = 800>
