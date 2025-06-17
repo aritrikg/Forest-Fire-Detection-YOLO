@@ -74,8 +74,6 @@ The trained YOLOv8 model demonstrated impressive performance on the D-Fire test 
 | Large       | 0.812  |     2.342      |
 | Extra Large | 0.814  |     3.465      |
 
-#### For a detailed exploration of our training process and insights, we invite you to read our comprehensive guide on Medium: [Stay Ahead of the Flames: A Comprehensive Guide to Wildfire Prevention with YOLOv8](https://medium.com/institute-of-smart-systems-and-ai/stay-ahead-of-the-flames-a-comprehensive-guide-to-wildfire-prevention-with-yolov8-3eb8edd1121a)
-
 ---
 
 ## Future Implications
