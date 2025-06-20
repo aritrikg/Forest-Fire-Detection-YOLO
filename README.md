@@ -58,9 +58,6 @@ We have explored many different datasets. Here is the summary:
 
 We trained the YOLOv8 model by [Ultralytics](https://github.com/ultralytics/ultralytics) on the D-Fire dataset to achieve accurate fire and smoke detection. Our research not only focuses on achieving high accuracy but also on optimizing model parameters and hyperparameters to ensure efficiency and speed.
 
-#### Training recipe can be found in a [training-recipes folder](training-recipes)
-
----
 
 ## Results
 
