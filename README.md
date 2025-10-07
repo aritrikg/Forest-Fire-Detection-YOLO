@@ -11,7 +11,7 @@ This repository contains the code and resources from our research focused on usi
 
 ## Highlights:
 
-- Trained YOLOv8 model using the D-Fire dataset for accurate fire and smoke detection.
+- Trained a YOLOv8 model using the D-Fire dataset for accurate fire and smoke detection.
 - Explored different model sizes and their performance metrics.
 - Developed a Streamlit app for practical demonstration of the model's capabilities.
 - Investigated future implications of using computer vision in wildfire prevention strategies.
