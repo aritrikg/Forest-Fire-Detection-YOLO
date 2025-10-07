@@ -1,8 +1,6 @@
 # Forest Fire Detection Using YOLO
-![GitHub license](https://img.shields.io/github.com/aritrikg/Forest-Fire-Detection-YOLO/tree/main)
-![GitHub stars](https://img.shields.io/github.com/aritrikg/Forest-Fire-Detection-YOLO/tree/main)
-![GitHub forks](https://img.shields.io/github.com/aritrikg/Forest-Fire-Detection-YOLO/tree/main)
-![GitHub issues](https://img.shields.io/github.com/aritrikg/Forest-Fire-Detection-YOLO/tree/main)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/aritrikg/Forest-Fire-Detection-YOLO)](https://github.com/aritrikg/Forest-Fire-Detection-YOLO/stargazers)
 
 Welcome to the Forest Fire Detection Research Repository!
 This repository contains the code and resources from our research focused on using computer vision techniques for forest fire detection. Our goal is to support forest fire prevention by developing and training an object detection model capable of accurately identifying fire and smoke in images.
